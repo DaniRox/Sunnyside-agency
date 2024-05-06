@@ -1,0 +1,15 @@
+.card-testimonials{
+    width: 80%;
+    padding: 1.4rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+@media only screen and (min-width: 570px){
+    .card-testimonials{
+        width: 14rem;
+    }
+}

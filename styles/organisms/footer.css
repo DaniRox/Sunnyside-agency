@@ -1,0 +1,7 @@
+.footer{
+    padding-top: 4rem;
+    background-color: var(--primary-dark-moderate-cyan);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

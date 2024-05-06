@@ -1,0 +1,10 @@
+.icon-hamburguer{
+    width: 1.5rem;
+}
+
+
+@media only screen and (min-width: 770px){
+    .icon-hamburguer{
+        display: none;
+    }
+}

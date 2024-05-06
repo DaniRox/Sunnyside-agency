@@ -1,0 +1,5 @@
+.div-social-icons{
+    display: flex;
+    flex-direction: row;
+    padding: 0.3rem 0;
+}

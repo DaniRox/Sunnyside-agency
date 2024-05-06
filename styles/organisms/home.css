@@ -1,0 +1,26 @@
+.home{
+    background-image: url(../../images/mobile/image-header.jpg);
+    background-position: bottom;
+    background-size: cover;
+    height: 30rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 4rem;
+}
+
+@media only screen and (min-width: 570px){
+    .home{
+        background-image: url(../../images/desktop/image-header.jpg);
+    }
+
+}
+
+@media only screen and (min-width: 980px){
+    .home{
+        height: 40rem;
+        justify-content: flex-start;
+        background-position: center;
+    }
+}

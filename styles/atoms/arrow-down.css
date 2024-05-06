@@ -1,0 +1,11 @@
+.arrow-down{
+    width: 2rem;
+    height: auto;
+}
+
+
+@media only screen and (min-width: 980px){
+    .arrow-down{
+        width: 2.3rem;
+    }
+}
