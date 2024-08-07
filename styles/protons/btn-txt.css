@@ -1,3 +1,8 @@
 .btn-txt{
+    font-family: "Fraunces", serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
     font-size: 1.2rem;
+    color: var(--neutral-very-dark-desaturated-blue);
 }

@@ -1,8 +1,17 @@
 .p1{
-    font-size: 1.2rem;
+    font-family: "Barlow", sans-serif;
+    font-weight: 600;
+    font-size: 1.3rem;
     text-align: center;
+    color: var(--neutral-very-dark-grayish-blue);
 }
 
+.p-name {
+    font-family: "Fraunces", serif;
+    font-weight: 900;
+    font-size: 1.2rem;
+    color: var(--neutral-very-dark-desaturated-blue);
+}
 
 
 @media only screen and (min-width: 770px){
